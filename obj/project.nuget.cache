@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "iQfO7DsYAlGb+t6bPqR/ha6aZP07HopvgEimC8vFS1uDC/G30hzv0Fz4qHFGpOKunxoSQtdQMCHaSsuqUcfPFA==",
+  "success": true,
+  "projectFilePath": "/Users/s2201198/Projects/potato/potato/potato.csproj",
+  "expectedPackageFiles": [
+    "/Users/s2201198/.nuget/packages/faker.net/2.0.154/faker.net.2.0.154.nupkg.sha512",
+    "/Users/s2201198/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/s2201198/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
